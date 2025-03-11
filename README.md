@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jjc92
+### 👋 Hi, I’m @jjc92
 - 👀 I’m interested in Quantitative Finance 
 - 🌱 I’m currently working in Python and C
 - 📫 How to reach me 
