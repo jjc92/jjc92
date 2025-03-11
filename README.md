@@ -1,4 +1,4 @@
-# Hi 👋, I’m Josh
+<h1 align="center">Hi 👋, I’m Josh</h1>
 ------
 - 👀 I’m interested in Quantitative Finance 
 - 🌱 I’m currently working in Python and C
