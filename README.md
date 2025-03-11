@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Josh
+# Hi 👋, I’m Josh
 ------
 - 👀 I’m interested in Quantitative Finance 
 - 🌱 I’m currently working in Python and C
