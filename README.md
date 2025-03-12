@@ -5,7 +5,6 @@
   
 - 👀 I’m interested in Quantitative Finance
 - 🌱 I’m currently working in Python and C
-- 📫 How to reach me www.linkedin.com/in/joshuacable
 - 📫 &nbsp;How to reach me:&nbsp; <a href="https://linkedin.com/in/joshuacable" target="blank"><img align="center" src="https://raw.githubusercontent.com/jjc92/jjc92/main/LinkedIn.svg" alt="joshuacable" height="40" width="100" /></a>
 
 
