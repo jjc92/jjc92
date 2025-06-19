@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I’m Josh</h1>
 
 ------
-  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjc92" alt="jjc92" width="300px" />
+
 - 👀 I’m interested in Quantitative Finance & Computational Astrophysics 
 - 🌱 I primarily work in Python and C
 - 🧠 I'm currently learning kdb+ and q
