@@ -4,6 +4,11 @@
 <!----
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjc92" alt="jjc92" width="300px" />
 --->
+<h3 align="center">I'm a Physics Graduate in Financial Services.
+
+I have a BSc in Physics & Astrophysics from the University of Bath (2025).</h3>
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjc92&hide=Jupyter%20Notebook" alt="jjc92" width="300px" />
 
 
