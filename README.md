@@ -7,7 +7,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjc92&hide=Jupyter%20Notebook" alt="jjc92" width="300px" />
 
 
-- 👀 I’m interested in Quantitative Finance, Global Markets & Computational Astrophysics 
+- 👀 I’m interested in Quantitative Finance, Financial Markets & Computational Astrophysics 
 - 🌱 I primarily work in Python and C
 - 🧠 I'm currently learning kdb+ and q
 - 📫 &nbsp;How to reach me:&nbsp; <a href="https://linkedin.com/in/joshuacable" target="blank"><img align="center" src="https://raw.githubusercontent.com/jjc92/jjc92/main/LinkedIn.svg" alt="joshuacable" height="40" width="100" /></a>
