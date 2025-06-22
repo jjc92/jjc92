@@ -10,6 +10,7 @@
 - 👀 I’m interested in Quantitative Finance, Financial Markets & Computational Astrophysics 
 - 🌱 I primarily work in Python and C
 - 🧠 I'm currently learning kdb+/q
+- My latest project: "Market-Neutral Strategy Construction Using Cointegrated Equity Pairs"
 - 📫 &nbsp;How to reach me:&nbsp; <a href="https://linkedin.com/in/joshuacable" target="blank"><img align="center" src="https://raw.githubusercontent.com/jjc92/jjc92/main/LinkedIn.svg" alt="joshuacable" height="40" width="100" /></a>
 
 
